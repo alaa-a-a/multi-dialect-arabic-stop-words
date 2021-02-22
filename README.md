@@ -1,4 +1,4 @@
-# multi-dialect-Arabic-stop-words
+# Multi dialect Arabic stop words
 A large list of domain-independent multi-dialect Arabic stop words
 
 This repository includes two files<br>
