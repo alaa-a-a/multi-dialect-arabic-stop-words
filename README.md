@@ -1,9 +1,9 @@
 # Multi dialect Arabic stop words
 A large list of domain-independent multi-dialect Arabic stop words.
 
-This repository includes two files<br>
-a) a list of 405 domain-independent multi-dialect Arabic stop words.<br>
-b) a lsit of 1,177 Arabic stop-words after adding the multi-dialect list to the NLTK and [Alrefaie’s](https://github.com/mohataher/arabic-stop-words) lists. 
+### This repository includes two files<br>
+1) a list of 405 domain-independent multi-dialect Arabic stop words.<br>
+2) a lsit of 1,177 Arabic stop-words after adding the multi-dialect list to the NLTK and [Alrefaie’s](https://github.com/mohataher/arabic-stop-words) lists. 
 
 ### If you use these lists in your research, please cite the following paper:
 ```
